@@ -38,6 +38,8 @@ El patrón de construcción construye un objeto complejo usando objetos simples 
 
 Una clase Builder construye el objeto final paso a paso. Este constructor es independiente de otros objetos.
 
+En el codigo la clase Car solo tiene metodos getter y ningun constructor publico entonces la unica forma de obtener un onjeto Car es a traves de la clase CarBuilder
+
 ## Punto 4
 
 ## Punto 5
