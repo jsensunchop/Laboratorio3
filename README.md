@@ -29,6 +29,9 @@ Creación de la clase principal donde usaremos Context para ver un cambio en el 
 
 
 ## Punto 2
+- Crear clase MedalloPizzaStore la cual es la nueva sede
+- crear clases PaisaStyleBeansPizza,PaisaStyleRicePizza,PaisaStyleThreePhasePizza que seran las pizzas correspondientes a esta sede
+- modificar clase DependentPizzaStore añadiendo las nuevas clases para su reconocimiento.
 
 ## Punto 3
 El patrón de construcción construye un objeto complejo usando objetos simples y usando un enfoque paso a paso. Este tipo de patrón de diseño viene bajo el patrón de creación, ya que este patrón proporciona una de las mejores formas de crear un objeto.
