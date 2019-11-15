@@ -29,6 +29,9 @@ Creación de la clase principal donde usaremos Context para ver un cambio en el 
 ## Punto 2
 
 ## Punto 3
+El patrón de construcción construye un objeto complejo usando objetos simples y usando un enfoque paso a paso. Este tipo de patrón de diseño viene bajo el patrón de creación, ya que este patrón proporciona una de las mejores formas de crear un objeto.
+
+Una clase Builder construye el objeto final paso a paso. Este constructor es independiente de otros objetos.
 
 ## Punto 4
 
