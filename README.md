@@ -38,3 +38,7 @@ Una clase Builder construye el objeto final paso a paso. Este constructor es ind
 ## Punto 4
 
 ## Punto 5
+- crear clase coffe que ser el objeto principal
+- crear clase CondimentDecorator a la cual se va a extender las adiciones necesarias
+- crear clases, WithMilk,Mocha,WithFigure,CTime que seran las adiciones con su respectivo valor
+- crear clase TostaoCoffe que sera la que cree los nuevos productos segun su complejidad usando las diferentes adiciones
