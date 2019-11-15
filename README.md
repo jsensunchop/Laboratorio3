@@ -26,3 +26,10 @@ Paso #4:
 Creación de la clase principal donde usaremos Context para ver un cambio en el comportamiento cuando cambie Strategy
 
 
+## Punto 2
+
+## Punto 3
+
+## Punto 4
+
+## Punto 5
