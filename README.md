@@ -2,7 +2,7 @@
 
 Presentado por:
 Juan Sebastián Ensuncho
-Kevin Steven Kiberato
+Kevin Steven Liberato
 
 
 # Solucion:
