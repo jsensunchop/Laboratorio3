@@ -41,8 +41,9 @@ Una clase Builder construye el objeto final paso a paso. Este constructor es ind
 En el codigo la clase Car solo tiene metodos getter y ningun constructor publico entonces la unica forma de obtener un onjeto Car es a traves de la clase CarBuilder
 
 ## Punto 4
-En lo que correspone a los Antipatterns, seleccionamos el Anchor Boat y el Spaghetti Code:
+En lo que correspone a los Antipatterns, seleccionamos el Blob y el Spaghetti Code:
 
+En el blob tenemos una clase con muchas funciones, el cual rompe las ventajas de la programacion OO.
 En el spaghetti code expuesto se puede ver el uso recurrente de condicionales anidados que dificultan la comprension del codigo.
 En el llenado de agua, calentado y ciclo de lavado se realizan ciertas comprobaciones necesarias que se vuelven repetitivas y hacen que el programa se vuelva mas complejo de entender.
 Al carecer de estructura el programa si se sigue desarrollando, conllevaria a que se vuelva mas grande, desorganizado y no entendible.
