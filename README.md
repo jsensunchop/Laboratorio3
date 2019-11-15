@@ -29,16 +29,21 @@ Creación de la clase principal donde usaremos Context para ver un cambio en el 
 
 
 ## Punto 2
+- Crear clase MedalloPizzaStore la cual es la nueva sede
+- crear clases PaisaStyleBeansPizza,PaisaStyleRicePizza,PaisaStyleThreePhasePizza que seran las pizzas correspondientes a esta sede con sus respectivos ingredientes locales y adiciones
+- modificar clase DependentPizzaStore añadiendo las nuevas clases para su reconocimiento en el programa.
 
 ## Punto 3
 El patrón de construcción construye un objeto complejo usando objetos simples y usando un enfoque paso a paso. Este tipo de patrón de diseño viene bajo el patrón de creación, ya que este patrón proporciona una de las mejores formas de crear un objeto.
 
 Una clase Builder construye el objeto final paso a paso. Este constructor es independiente de otros objetos.
 
+En el codigo la clase Car solo tiene metodos getter y ningun constructor publico entonces la unica forma de obtener un onjeto Car es a traves de la clase CarBuilder
+
 ## Punto 4
 
 ## Punto 5
-- crear clase coffe que ser el objeto principal
+- crear clase coffe que será el objeto principal
 - crear clase CondimentDecorator a la cual se va a extender las adiciones necesarias
 - crear clases, WithMilk,Mocha,WithFigure,CTime que seran las adiciones con su respectivo valor (CTime no se cobra)
 - crear clase TostaoCoffe que sera la que cree los nuevos productos segun su complejidad usando las diferentes adiciones
